@@ -7,6 +7,8 @@
 I study AI Development at the **Instituto Tecnológico de las Américas (ITLA)**.
 I enjoy building practical software projects that bring together artificial intelligence, automation, and interactive web experiences.
 
+**🌐 [Explore my live portfolio](https://elian-dev.vercel.app/)**
+
 </div>
 
 ## 🛠️ Technologies
@@ -38,7 +40,12 @@ An educational computer vision project that explores face recognition using Prin
 
 **Tech:** Python · OpenCV · scikit-learn · NumPy
 
-> Project repositories and demonstrations will be linked here as they are published.
+**[View my live portfolio and project previews](https://elian-dev.vercel.app/)**
+
+- [Virtual Mouse — Hand Gesture Control](https://github.com/Dokjakim51/Mouse-Virtual-Gestos-Python)
+- [Cosmic Explorer — Interactive 3D Experience](https://github.com/Dokjakim51/Cosmic-Explorer-3D)
+- [Star Stream — Personal Finance App](https://github.com/Dokjakim51/Star-Stream-Finance-App)
+- [Face Recognition — PCA + KNN](https://github.com/Dokjakim51/Reconocimiento-Facial-PCA-KNN)
 
 ## Currently Learning
 
